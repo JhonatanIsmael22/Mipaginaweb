@@ -1,0 +1,12 @@
+<html>
+<head>
+<tittle>Sabritas Barcel</tittle>
+</head>
+<body bgcolor="1E90FF">
+<marquee direction="left"> <font face =" arial black" size="30" color="white"> 
+Compren sabritas barcel a buen precio</font></marquee>
+<hr>
+<marquee direction="right"><img src="Barcel3.jpg" alt"Sabrita que piden todos" width="200" height="300">
+</hr>
+</body>
+</html>
